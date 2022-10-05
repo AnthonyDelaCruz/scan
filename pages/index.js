@@ -8,14 +8,20 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>Links in NextJS app</h1>
-      <Link href='/home' style={{ color: 'red' }}>
-        Home Page
+      <Link href='/home' >
+        <a style={{ color: 'red' }}>
+          Home Page
+        </a>
       </Link>
-      <Link href='/about' style={{ color: 'blue' }}>
-        About Page
+      <Link href='/about'>
+        <a style={{ color: 'blue' }}>
+          About Page
+        </a>
       </Link>
-      <Link href='/contact' style={{ color: 'yellow' }}>
-        Contact Page
+      <Link href='/contact'>
+        <a style={{ color: 'yellow' }}>
+          Contact Page
+        </a>
       </Link>
     </div>
   )
