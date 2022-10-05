@@ -19,7 +19,7 @@ export default function Home() {
         </a>
       </Link>
       <Link href='/contact'>
-        <a style={{ color: 'orange', marginLeft: '10px', padding: '100px' }}>
+        <a style={{ color: 'orange' }}>
           Contact Page
         </a>
       </Link>
