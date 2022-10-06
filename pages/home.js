@@ -1,15 +1,13 @@
-import Link from 'next/link'
+import Head from 'next/head'
 import React from 'react'
 
 export default function Home() {
     return (
-        <div>
-            <title>Home Page</title>
-            <h1>Home page</h1>
-            <button style={{ backgroundColor: 'red' }}>Red button</button>
-            <button style={{ backgroundColor: 'green' }}>Green button</button>
-            <button style={{ backgroundColor: 'blue' }}>Blue button</button>
-            <Link href='/'>Back to main page</Link>
-        </div>
+        <React.Fragment>
+            <Head>
+                <title>Home</title>
+            </Head>
+            <span>HOME</span>
+        </React.Fragment>
     )
 }
