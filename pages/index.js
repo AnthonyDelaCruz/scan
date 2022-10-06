@@ -7,7 +7,8 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <h1>Links in NextJS app</h1>
+      <title>Main Page</title>
+      <h1>Main Page</h1>
       <Link href='/home' >
         <a style={{ color: 'red' }}>
           Home Page
