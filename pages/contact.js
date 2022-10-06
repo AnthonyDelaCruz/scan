@@ -6,10 +6,10 @@ export default function Contact() {
             <title>Contact</title>
             <h1>Contact</h1>
             <footer>
-                <span style={{ color: 'red' }}>
+                <span>
                     Contact number: 1234
                 </span>
-                <span style={{ padding: '20px', border: '1px solid red' }}>
+                <span>
                     Email: Sample@gmail.com
                 </span>
             </footer>
