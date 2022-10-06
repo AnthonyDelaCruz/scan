@@ -4,6 +4,7 @@ import React from 'react'
 export default function Home() {
     return (
         <div>
+            <title>Home Page</title>
             <h1>Home page</h1>
             <button style={{ backgroundColor: 'red' }}>Red button</button>
             <button style={{ backgroundColor: 'green' }}>Green button</button>
