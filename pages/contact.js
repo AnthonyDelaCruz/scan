@@ -7,7 +7,7 @@ export default function Contact() {
             <Head>
                 <title>Contact</title>
             </Head>
-            <h1 style={{ color: 'gold', margin: '20' }}>About</h1>
+            <h1 style={{ border: "1px solid red", padding: '10px' }}>About</h1>
         </React.Fragment>
     )
 }
