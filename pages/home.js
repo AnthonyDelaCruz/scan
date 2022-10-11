@@ -7,7 +7,7 @@ export default function Home() {
             <Head>
                 <title>Home</title>
             </Head>
-            <span style={{ color: 'blue' }}>HOME</span>
+            <span style={{ color: 'red' }}>HOME</span>
         </React.Fragment>
     )
 }
