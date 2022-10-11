@@ -7,7 +7,7 @@ export default function About() {
             <Head>
                 <title>About</title>
             </Head>
-            <p>About</p>
+            <p style={{ fontSize: '16px' }}>About</p>
         </React.Fragment>
     )
 }
