@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Link href='/home' >
-        <a style={{ color: 'red' }}>
+        <a style={{ color: 'white' }}>
           Home Page
         </a>
       </Link>
