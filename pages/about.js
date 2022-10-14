@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function About() {
     return (
-        <React.Fragment>
+        <div>
             <Head>
                 <title>About</title>
             </Head>
@@ -11,7 +11,7 @@ export default function About() {
             <a href='https://www.youtube.com/'>Youtube link</a>
             <a href='https://medium.com/'>Twitter link</a>
             <a href='https://dev.to/'>DEV.to link</a>
-        </React.Fragment>
+        </div>
     )
 }
 
