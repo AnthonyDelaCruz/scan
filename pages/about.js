@@ -10,7 +10,7 @@ export default function About() {
             <p style={{ fontSize: '40px', color: 'red' }}>About</p>
             <a href='https://www.youtube.com/'>Youtube link</a>
             <a href='https://medium.com/'>Twitter link</a>
-            <a href='https://dev.to/'>DEV.to link</a>
+            <a href='https://twitter.com'>DEV.to link</a>
         </div>
     )
 }
