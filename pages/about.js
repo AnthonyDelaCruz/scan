@@ -12,6 +12,7 @@ export default function About() {
             <a href='https://medium.com/'>Twitter link</a>
             <a href='https://dev.to'>DEV.to link</a>
             <a href='https://twitter.com'>Twitter link</a>
+            <a href='https://fb.com'>fb link</a>
         </div>
     )
 }
