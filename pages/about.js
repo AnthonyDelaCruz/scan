@@ -8,11 +8,9 @@ export default function About() {
                 <title>About</title>
             </Head>
             <p style={{ fontSize: '40px', color: 'blue' }}>About</p>
-            <a href='https://medium.com/'>Medium</a>
             <a href='https://dev.to'>DEV.to link</a>
-            <a href='https://twitter.com'>Twitter link</a>
-            <a href='https://facebook.com'>fb link</a>
             <a href='https://ant.design'>Ant D link</a>
+            <a href='https://youtube.com'>Youtube link</a>
         </div>
     )
 }
