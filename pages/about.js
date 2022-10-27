@@ -7,11 +7,10 @@ export default function About() {
             <Head>
                 <title>About</title>
             </Head>
-            <p style={{ fontSize: '40px', color: 'blue' }}>About</p>
+            <p style={{ fontSize: '40px', color: 'red' }}>About</p>
             <a href='https://ant.design'>Ant D link</a>
             <a href='https://dev.to'>Dev.to link</a>
-            <a href='https://youtube.com'>Youtube.com</a>
-            <a href='https://medium.com '>Medium link</a>
+            <a href='https://twitter.to'>Twitter link</a>
         </div>
     )
 }
