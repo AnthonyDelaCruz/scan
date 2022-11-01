@@ -1,9 +1,11 @@
 import Head from 'next/head'
 import React from 'react'
 
+import styles from '../styles/about.module.css'
+
 export default function About() {
     return (
-        <div>
+        <div className={styles.container}>
             <Head>
                 <title>About</title>
             </Head>
