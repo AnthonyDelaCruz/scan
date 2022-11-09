@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <meta
           property='og:image'
-          content='https://scan-uh5x.vercel.app/zero-reg-og-image.png`'
+          content='https://scan-uh5x.vercel.app/zero-reg-og-image.png'
         />
       </Head>
       <Link href='/home' >
