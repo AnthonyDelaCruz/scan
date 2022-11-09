@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <meta
           property='og:image'
-          content='/zero-reg-og-image.png'
+          content='https://www.canva.com/design/DAFRbkE2Jj4/e1LUcJqi8Eeare6PhLhH3Q/view?utm_content=DAFRbkE2Jj4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'
         />
       </Head>
       <Link href='/home' >
