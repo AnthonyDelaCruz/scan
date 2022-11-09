@@ -18,7 +18,7 @@ export default function Home() {
         </a>
       </Link>
       <Link href='/about'>
-        <a style={{ color: 'blue' }}>
+        <a style={{ color: 'red' }}>
           About Page
         </a>
       </Link>
