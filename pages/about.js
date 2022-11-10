@@ -15,6 +15,7 @@ export default function About() {
             <a href='https://twitter.to'>Twitter link</a>
             <a href='https://youtube.com'>Youtube link</a>
             <a href='https://ui.dev'>ui.dev</a>
+            <a href='https://ui.dev'>ui.dev</a>
             <Button />
         </div>
     )

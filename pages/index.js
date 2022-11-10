@@ -27,6 +27,7 @@ export default function Home() {
           Contact Page
         </a>
       </Link>
+      <a href='https://ui.dev'>ui.dev</a>
     </div>
   )
 }
