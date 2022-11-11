@@ -23,11 +23,10 @@ export default function Home() {
         </a>
       </Link>
       <Link href='/contact'>
-        <a style={{ color: 'red', marginLeft: '10px', padding: '100px' }}>
+        <a style={{ color: 'blue', marginLeft: '11px', padding: '100px' }}>
           Contact Page
         </a>
       </Link>
-      <a href='https://ui.dev'>ui.dev</a>
     </div>
   )
 }
