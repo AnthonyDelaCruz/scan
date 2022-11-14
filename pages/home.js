@@ -8,7 +8,6 @@ export default function Home() {
                 <title>Home</title>
             </Head>
             <span style={{ color: 'red' }}>HOME</span>
-            <a href='https://ui.dev'>ui.dev</a>
         </React.Fragment>
     )
 }

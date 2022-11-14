@@ -17,7 +17,7 @@ export default function Contact() {
             <Button />
             <div>Above last button</div>
             <Button />
-            <a href='https://ui.dev'>ui.dev</a>
+            <a href='https://medium.com'>Medium link</a>
         </React.Fragment>
     )
 }
