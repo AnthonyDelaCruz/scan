@@ -10,7 +10,7 @@ export default function About() {
             <Head>
                 <title>About</title>
             </Head>
-            <p style={{ fontSize: '40px', color: 'red' }}>About</p>
+            <p style={{ fontSize: '41px', color: 'red' }}>About</p>
             <a href='https://dev.to'>Dev.to link</a>
             <a href='https://twitter.to'>Twitter link</a>
             <a href='https://youtube.com'>Youtube link</a>
