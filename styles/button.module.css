@@ -1,4 +1,5 @@
 .button {
   color: white;
-  background-color: brown;
+  background-color: green;
+  border: '1px solid red'
 }
