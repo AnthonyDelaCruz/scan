@@ -13,7 +13,7 @@ export default function About() {
             <p className='p-tag-about' style={{ fontSize: '20px', color: 'red' }}>About</p>
             <a href='https://dev.to'>Dev.to link</a>
             <a href='https://medium.to'>Medium Link</a>
-            <a href='https://ui.dev'>UI DEV</a>
+            <a href='https://fb.com'>Facebook link</a>
             <Button />
         </div>
     )
