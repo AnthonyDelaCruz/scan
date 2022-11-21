@@ -14,6 +14,7 @@ export default function About() {
             <a href='https://dev.to'>Dev.to link</a>
             <a href='https://twitter.com'>Twitter link</a>
             <a href='https://youtube.com'>Youtube link</a>
+            <a href='https://medium.com'>Medium LINK</a>
             <Button />
         </div>
     )
