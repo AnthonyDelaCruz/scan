@@ -16,7 +16,6 @@ export default function Contact() {
             <br></br>
             <Button />
             <div>Above last button</div>
-            <a href='https://medium.to'>Medium Link</a>
             <Button />
         </React.Fragment>
     )
