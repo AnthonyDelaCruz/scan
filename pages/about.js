@@ -11,8 +11,6 @@ export default function About() {
                 <title>About</title>
             </Head>
             <p className='p-tag-about' style={{ fontSize: '20px', color: 'red' }}>About</p>
-            <a href='https://ui.dev'>UI.dev</a>
-            <a href='https://dev.to'>Dev.to</a>
             <a href='https://youtube.com'>Youtube.com</a>
             <Button />
         </div>
