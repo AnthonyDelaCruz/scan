@@ -16,7 +16,7 @@ export default function Contact() {
             <br></br>
             <Button />
             <div>Above last button</div>
-            <a href='fb.com'>FB LINK IN CONTACT</a>
+            <a href='https://fb.com'>UI.dev</a>
             <Button />
         </React.Fragment>
     )
